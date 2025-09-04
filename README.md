@@ -5,22 +5,26 @@
 Senior .NET backend developer for high-throughput, multi-tenant SaaS. Deep in Elasticsearch, SQL, and cloud infra; ships reliable, performant services.
 
 ## Skills
-C#, .NET · SQL Server, PostgreSQL · Elasticsearch · Docker, Kubernetes, Helm · Azure · GitHub Actions / Azure DevOps · OOP & design patterns  
-**LinkedIn Skills Assessments (2025):** **C# & Microsoft SQL Server — Top 5%**, **OOP & Design Patterns — Top 30%**
+C#, .NET · SQL Server, PostgreSQL · Elasticsearch · Docker, Kubernetes, Helm · Azure · GitHub Actions / Azure DevOps · OOP & design patterns
+LinkedIn Skills Assessments (2025): C# & Microsoft SQL Server — Top 5%, OOP & Design Patterns — Top 30%
 
 ## Experience
 
-**Senior Applications Developer — BMC Software (acquired Netreo)** · 2025–Present  
-- Completed Elasticsearch v1 → v7 migration; led ~90% of backend.  
-- Tiered tenants to dedicated ES clusters by log cardinality for stable performance.  
+**Senior Applications Developer — BMC Software (acquired Netreo)** · May 2024 – Present
+- Completed Elasticsearch v1 → v7 migration; led ~90% of backend.
+- Tiered tenants to dedicated Elasticsearch clusters by log cardinality for stable performance.
 - Tuned a high-throughput microservice (billions of docs / terabyte-scale): memory/CPU optimization, fast JSON handling, Redis messaging, SQL ops, and performant ES bulk inserts.
 
-**Senior Backend .NET Developer — Netreo (acquired Stackify)** · 2021–Present
-- Modernized logging/search (ES v1 → v7), upgraded Helm/K8s, handled deprecations.  
-- Partitioned large PostgreSQL tables; tuned SQL Server for heavy multi-tenant workloads.  
+**Senior Backend .NET Developer — Netreo (acquired Stackify)** · Apr 2021 – Present
+- Modernized logging/search (Elasticsearch v1 → v7), upgraded Helm/K8s, handled deprecations.
+- Partitioned large PostgreSQL tables; tuned SQL Server for heavy multi-tenant workloads.
 - Added Docker integration tests and drove rigorous PR reviews.
 
-**Senior Backend .NET Developer — Full Scale** · 2018–2022  
+**Senior Backend .NET Developer — Stackify** · Jan 2021 – Present
+- Led end-to-end migration of SaaS monitoring for 1,000+ tenants (website checks, SQL, Azure Service Bus, Elasticsearch log queries).
+- Automated PostgreSQL table partitioning by pre-creating future partitions for multi-terabyte (TB) datasets—improving scalability, performance, and reducing maintenance.
+
+**Senior Backend .NET Developer — Full Scale** · Nov 2018 – Mar 2022
 - Optimized APIs and SQL (fixed N+1, clean migrations); built mid-tier for a SaaS submissions platform.
 
 **Backend .NET Developer — passionITe / Rapid Source Solutions** · 2012–2018  
