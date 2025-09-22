@@ -5,12 +5,12 @@
 Senior .NET backend developer for high-throughput, multi-tenant SaaS. Deep in Elasticsearch, SQL, and cloud infra; ships reliable, performant services.
 
 ## Skills
-C#, .NET · SQL Server, PostgreSQL · Elasticsearch · Docker, Kubernetes, Helm · Azure · GitHub Actions / Azure DevOps · OOP & design patterns  
+C#, .NET · SQL Server, PostgreSQL · Elasticsearch · Docker, Kubernetes, Helm · Azure · GitHub Actions / Azure DevOps · OOP & design patterns
 **LinkedIn Skills Assessments (2025):** C# & Microsoft SQL Server — **Top 5%**, OOP & Design Patterns — **Top 30%**
 
 ## Experience
 
-**Senior Applications Developer — BMC Software** · **Jan 2021–Present**  
+**Senior Applications Developer — BMC Software** · **Jan 2021–Present**
 _Continuity through acquisitions: Stackify → Netreo (2021) → BMC (2024)_
 - Completed Elasticsearch v1 → v7 migration; implementing ~90% of the backend work.
 - Tiered tenants to dedicated Elasticsearch clusters **based on log cardinality** to ensure stable performance.
@@ -19,16 +19,17 @@ _Continuity through acquisitions: Stackify → Netreo (2021) → BMC (2024)_
 - Automated PostgreSQL partitioning by pre-creating future partitions, improving scalability and performance while reducing maintenance.
 - Upgraded Helm/Kubernetes and handled API deprecations; added Docker integration tests and drove rigorous PR reviews.
 
-**Senior Backend .NET Developer — Full Scale** · Nov 2018–Mar 2022  
+**Senior Backend .NET Developer — Full Scale** · Nov 2018–Mar 2022
 - Optimized APIs and SQL (fixed N+1, clean migrations); built mid-tier for a SaaS submissions platform.
 
-**Backend .NET Developer — passionITe / Rapid Source Solutions** · 2012–2018  
+**Backend .NET Developer — passionITe / Rapid Source Solutions** · 2012–2018
 - Built SOAP services for telecom billing/subscriptions; implemented SQL Server replication for high availability.
 
 ## Projects
-- **PisoChatGPT** — affordable AI for Filipinos; **1,300+ users**. Built on **Azure AI Foundry + OpenAI** (chat, image generation, and document analysis).  
-- **Loggle (open source, MIT)** — self-hosted log monitoring that stitches **OpenTelemetry Collector → Log Ingestion API → Elasticsearch + Kibana**; runs locally via Docker and deploys to Azure with Terraform (learning/experimental; not for production use).  
-- **Phavi** — COVID-19 vaccination registration platform (lead).  
+- **WebSharp** - [github.com/jgador/websharp](https://github.com/jgador/websharp) - C#/.NET 9 MCP HTTP server offering SearXNG-powered web search and SmartReader readable-page extraction; ships Docker Compose for a local stack.
+- **PisoChatGPT** - affordable AI for Filipinos; **1,300+ users**. Built on **Azure AI Foundry + OpenAI** (chat, image generation, and document analysis).
+- **Loggle (open source, MIT)** — self-hosted log monitoring that stitches **OpenTelemetry Collector → Log Ingestion API → Elasticsearch + Kibana**; runs locally via Docker and deploys to Azure with Terraform (learning/experimental; not for production use).
+- **Phavi** — COVID-19 vaccination registration platform (lead).
 - **Cebu Port Authority Online Permits** — permits.cpa.gov.ph (lead).
 
 ## Education
