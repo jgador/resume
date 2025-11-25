@@ -26,11 +26,11 @@ _Continuity through acquisitions: Stackify → Netreo (2021) → BMC (2024)_
 - Built SOAP services for telecom billing/subscriptions; implemented SQL Server replication for high availability.
 
 ## Projects
-- **WebSharp** - [github.com/jgador/websharp](https://github.com/jgador/websharp) - C#/.NET 9 MCP HTTP server offering SearXNG-powered web search and SmartReader readable-page extraction; ships Docker Compose for a local stack.
+- **Sqloom** - [github.com/jgador/sqloom-mssql](github.com/jgador/sqloom-mssql) - AI assisted database chat for Microsoft SQL Server in VS Code, with natural language schema exploration, table scripting, and performance diagnostics.
 - **PisoChatGPT** - affordable AI for Filipinos; **1,300+ users**. Built on **Azure AI Foundry + OpenAI** (chat, image generation, and document analysis).
 - **Loggle (open source, MIT)** — self-hosted log monitoring that stitches **OpenTelemetry Collector → Log Ingestion API → Elasticsearch + Kibana**; runs locally via Docker and deploys to Azure with Terraform (learning/experimental; not for production use).
-- **Phavi** — COVID-19 vaccination registration platform (lead).
-- **Cebu Port Authority Online Permits** — permits.cpa.gov.ph (lead).
+- **Phavi** - COVID-19 vaccination registration platform (lead).
+- **Cebu Port Authority Online Permits** - permits.cpa.gov.ph (lead).
 
 ## Education
 **BS Computer Science, _cum laude_** — Asian College of Technology (2007–2012)  
